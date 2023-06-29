@@ -44,7 +44,7 @@ p {
 
 .row {
     margin:50px auto !important;
-    padding: 50px !important;
+    padding: 20px !important;
 }
 
 .bg-bgprim {
@@ -56,7 +56,7 @@ p {
 }
 
 .container-lg {
-    margin: 100px auto;
+    margin: 90px auto;
 }
 
 .navigation-links {
