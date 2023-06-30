@@ -41,7 +41,9 @@ p {
     text-decoration: none;
 }
 
-
+.row {
+    padding-top: 80px !important;
+}
 
 .bg-bgprim {
     background: var(--primary-color);
