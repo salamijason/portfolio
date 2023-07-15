@@ -43,6 +43,11 @@ p {
     
 }
 
+.footer p {
+    font-size: 12px;
+    text-align: center;
+}
+
 .nav-link.active{
     text-decoration: underline !important;
     color:var(--primary-color) !important;
@@ -59,6 +64,18 @@ p {
     text-decoration: none;
 }
 
+.navbar-nav a {
+    font-family: 'Poppins',
+            sans-serif;
+    font-size:14px;
+}
+
+a.iconlink {
+    color:#1E3050;
+    display: inline;
+    margin-right: 5px;
+}
+
 div.row {
     padding: 80px 35px ;
 }
@@ -69,6 +86,10 @@ div.row {
 
 .bg-bgdef {
     background: var(--secondary-color);
+}
+
+.primary {
+    color: var(--primary-color);
 }
 
 div.col-sm.image {
