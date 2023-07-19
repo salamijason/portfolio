@@ -43,6 +43,10 @@ p {
     
 }
 
+.hero h3 {
+    font-size: 14px !important;
+}
+
 .footer p {
     font-size: 12px;
     text-align: center;
@@ -120,13 +124,13 @@ div.col-sm.image {
     }
 
     h3 {
-        font-size: 12px !important;
+        font-size: 15px !important;
         opacity: 0.7;
     }
 
     p {
         border-radius: 4px;
-        font-size: 15px;
+        font-size: 12px;
         line-height: 1.5;
         text-align: left;
         margin: 10px 5px 20px;
