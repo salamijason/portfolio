@@ -83,7 +83,7 @@ a.iconlink {
 }
 
 div.row {
-    padding: 80px 35px ;
+    padding: 30px 35px ;
 }
 
 .bg-bgprim {
@@ -98,7 +98,7 @@ div.row {
     color: var(--primary-color);
 }
 
-div.col-sm.image {
+div.image {
     padding: 48px 24px;
 }
 
@@ -187,7 +187,7 @@ div.col-sm.image {
     display: flex;
     justify-content: center;
     color: var(--primary-color);
-    font-size: 28px;
+    font-size: 20px;
     text-decoration: none;
 }
 
